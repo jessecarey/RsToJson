@@ -64,10 +64,8 @@ public class Connection {
 		String test = "TestString";
 		System.out.println(CaseFormat.UPPER_UNDERSCORE.to(CaseFormat.LOWER_CAMEL, "C_NAME"));
 		*/
-		File testFile = new File("text.txt");
 		PropertyManager pm = PropertyManager.getInstance();
-		//System.out.println(pm.getProperty("test.number"));
-		pm.getDebugLogger().info(testFile.getAbsoluteFile());
+		pm.getDebugLogger().info(pm.getProperty("test.number"));
 	}
 	
 }
