@@ -3,7 +3,12 @@ package omsg.util;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.Properties;
+
+import omsg.entities.DataSetConfig;
+import omsg.factory.ConfigSetFactory;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
@@ -20,7 +25,6 @@ public class PropertyManager {
 	private  Logger exportLogger  ;
 	private  Logger duplicatesLogger  ;
 	private static final String LOG_PROP_FILE = "config/log4j.properties";
-	
 	
 	public PropertyManager(){
 		prop = new Properties();
@@ -84,4 +88,6 @@ public class PropertyManager {
 	public Logger getDuplicatesLogger() {
 		return duplicatesLogger;
 	}
+	
+
 }

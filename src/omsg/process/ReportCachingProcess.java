@@ -1,6 +1,7 @@
 package omsg.process;
 
 import omsg.entities.DataSetConfig;
+import omsg.util.PropertyManager;
 
 
 
@@ -10,6 +11,8 @@ public class ReportCachingProcess {
 	
 	public boolean init(){
 		boolean status = false;
+		
+		PropertyManager ps = PropertyManager.getInstance();
 		
 		/*
 		 * getConfigurationManager
@@ -35,7 +38,7 @@ public boolean processdataSet(DataSetConfig dataSetConfig){
 		
 		boolean status = false;
 		
-		/* 
+		/* gorlarisa@gmail.com
 		 * ResultSet getResultSet(dataSetConfig)
 		 * 
 		 * String results = marshalResultSet(ResultSet, dataSetConfig)
