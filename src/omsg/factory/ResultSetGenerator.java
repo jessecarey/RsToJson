@@ -1,4 +1,4 @@
-package osmg.factory;
+package omsg.factory;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

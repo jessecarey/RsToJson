@@ -1,4 +1,4 @@
-package osmg.util;
+package omsg.util;
 
 import java.io.FileInputStream;
 import java.io.IOException;
