@@ -26,7 +26,7 @@ public class ConfigSetFactory {
 	public void loadConfig(int pos){
 		//get values from properties
 		String name = names[pos].trim();
-		String jsonName = pm.getProperty("config."+name+".jsonName");
+		String type = pm.getProperty("config."+name+".type");
 		String source = pm.getProperty("config."+name+".source");
 		String sql = pm.getProperty("config."+name+".sql");
 		String driver = pm.getProperty("config."+name+".driver");
@@ -35,6 +35,7 @@ public class ConfigSetFactory {
 		String url = pm.getProperty("config."+name+".url");
 		//store values in configSet
 		DataSetConfig config= new DataSetConfig();
+		config.setType(type);
 		config.setName(name);
 		config.setSource(source);
 		config.setSql(sql);

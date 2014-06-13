@@ -38,7 +38,7 @@ public boolean processdataSet(DataSetConfig dataSetConfig){
 		
 		boolean status = false;
 		
-		/* gorlarisa@gmail.com
+		/* 
 		 * ResultSet getResultSet(dataSetConfig)
 		 * 
 		 * String results = marshalResultSet(ResultSet, dataSetConfig)

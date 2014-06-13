@@ -28,7 +28,9 @@ public class ConnectionManager {
 		}
 		System.out.println();
 		
+		//generate result sets for each element --generic not all jdbc, not all sql?
 		
+		//generate output ??JSON?? for each result set
 		
 		
 		
