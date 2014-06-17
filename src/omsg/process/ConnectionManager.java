@@ -20,11 +20,9 @@ public class ConnectionManager {
 		ArrayList<DataSetConfig> configSet = csf.getConfigSet();
 		pm.loadConfigSet(configSet);
 		conns = generateConnectionList(configSet);
-		System.out.println();
 		ReportCachingProcess rcp = new ReportCachingProcess();
 		rcp.init(conns);
 		System.out.println();
-	
 	}
 	
 	private static ArrayList<Connection> generateConnectionList(ArrayList<DataSetConfig> configSet){
@@ -37,6 +35,8 @@ public class ConnectionManager {
 	
 	private static ArrayList<Connection> getConnection(ArrayList<DataSetConfig> configSet, ArrayList<Connection> conns, int i){
 		conns.add(ConnectionFactory.connect(configSet.get(i)));
+		PropertyManager pm = PropertyManager.getInstance();
+		pm.getDebugLogger().info("Connection established " + configSet.get(i).getName() + " " +  configSet.get(i).getDriver() + " " + configSet.get(i).getSource() + " " + configSet.get(i).getUrl());
 		return conns;
 	}
 	

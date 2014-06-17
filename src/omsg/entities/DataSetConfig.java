@@ -11,7 +11,14 @@ public class DataSetConfig {
 	private String username;
 	private String password;
 	private String type;
+	private String path;
 		
+	public String getPath() {
+		return path;
+	}
+	public void setPath(String path) {
+		this.path = path;
+	}
 	public String getType() {
 		return type;
 	}

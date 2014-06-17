@@ -6,9 +6,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import omsg.entities.DataSetConfig;
+import omsg.util.PropertyManager;
 
 public class ResultSetGenerator {
-		
+
 		public static ResultSet generateJDBCResultSet(Connection conn, DataSetConfig config){
 			ResultSet rs = null;
 			try{

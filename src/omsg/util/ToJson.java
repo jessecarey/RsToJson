@@ -24,7 +24,7 @@ public class ToJson {
 		boolean initial = true;
 		ArrayList<String> header = new ArrayList<String>();
 		JSONObject record = new JSONObject();
-
+		String json = new String("[");
 		try {
 			fileReader = new BufferedReader(new FileReader(csvPath));
 			while ((line = fileReader.readLine()) != null) {
@@ -56,13 +56,14 @@ public class ToJson {
 					if (i == header.size())
 						break;
 				}
-				System.out.println(record);
+				json = json + "\n" +  record.toString() +",";
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (JSONException e) {
 			e.printStackTrace();
 		}
-		return record.toString();
+		json = json + "]";
+		return json;
 	}
 }

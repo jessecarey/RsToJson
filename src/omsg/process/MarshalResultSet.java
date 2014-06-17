@@ -1,4 +1,4 @@
-package omsg.factory;
+package omsg.process;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

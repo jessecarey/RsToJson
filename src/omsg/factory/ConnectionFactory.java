@@ -31,6 +31,9 @@ public class ConnectionFactory {
 		String url = config.getUrl();
 		String username = config.getUsername();
 		String password = config.getPassword();
+		if(url == null){
+			return null;
+		}
 		try {
 			drive = (Driver) Class.forName(driver).newInstance();
 			conn = DriverManager.getConnection(url, username, password);
