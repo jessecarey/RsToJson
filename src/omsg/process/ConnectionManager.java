@@ -18,23 +18,26 @@ public class ConnectionManager {
 		ConfigSetFactory csf = new ConfigSetFactory();
 		ArrayList<Connection> conns = new ArrayList<Connection>();
 		ArrayList<DataSetConfig> configSet = csf.getConfigSet();
-		
-		for(int i = 0; i < configSet.size() ; i++){
-			String driver = configSet.get(i).getDriver();
-			String url = configSet.get(i).getUrl();
-			String username = configSet.get(i).getUsername();
-			String password = configSet.get(i).getPassword();
-			conns.add(ConnectionFactory.connect(driver, url, username, password));
-		}
+		pm.loadConfigSet(configSet);
+		conns = generateConnectionList(configSet);
 		System.out.println();
-		
-		//generate result sets for each element --generic not all jdbc, not all sql?
-		
-		//generate output ??JSON?? for each result set
-		
-		
-		
-
+		ReportCachingProcess rcp = new ReportCachingProcess();
+		rcp.init(conns);
+		System.out.println();
+	
+	}
+	
+	private static ArrayList<Connection> generateConnectionList(ArrayList<DataSetConfig> configSet){
+		ArrayList<Connection> conns = new ArrayList<Connection>();
+		for(int i = 0; i < configSet.size() ; i++){
+			conns = getConnection(configSet, conns, i);
+		}
+		return conns;
+	}
+	
+	private static ArrayList<Connection> getConnection(ArrayList<DataSetConfig> configSet, ArrayList<Connection> conns, int i){
+		conns.add(ConnectionFactory.connect(configSet.get(i)));
+		return conns;
 	}
 	
 }

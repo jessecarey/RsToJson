@@ -3,11 +3,11 @@ package omsg.util;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.Properties;
 
 import omsg.entities.DataSetConfig;
-import omsg.factory.ConfigSetFactory;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -15,6 +15,7 @@ import org.apache.log4j.PropertyConfigurator;
 public class PropertyManager {
 	//singleton
 	private static PropertyManager INSTANCE;
+	private ArrayList<DataSetConfig> configSet;
 	//properties
 	private Properties prop;
 	private static final String PROP_FILE = "config/test.properties";
@@ -89,5 +90,12 @@ public class PropertyManager {
 		return duplicatesLogger;
 	}
 	
+	public void loadConfigSet(ArrayList<DataSetConfig> configSet){
+		this.configSet = configSet;
+	}
+	
+	public ArrayList<DataSetConfig> getConfigSet(){
+		return configSet;
+	}
 
 }

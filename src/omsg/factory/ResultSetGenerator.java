@@ -1,24 +1,20 @@
 package omsg.factory;
 
+import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import omsg.entities.DataSetConfig;
+
 public class ResultSetGenerator {
-		private final String queryString;
-		protected java.sql.Connection conn;
 		
-		public ResultSetGenerator(String queryString, java.sql.Connection conn){
-			this.queryString = queryString;
-			this.conn = conn;
-		}
-		
-		public ResultSet runQuery(){
+		public static ResultSet generateJDBCResultSet(Connection conn, DataSetConfig config){
 			ResultSet rs = null;
-			try {
-				java.sql.PreparedStatement ps = conn.prepareStatement(queryString);
+			try{
+				PreparedStatement ps = conn.prepareStatement(config.getSql());
 				rs=ps.executeQuery();
-			} catch (SQLException e) {
-				// TODO Auto-generated catch block
+			} catch (SQLException e){
 				e.printStackTrace();
 			}
 			return rs;

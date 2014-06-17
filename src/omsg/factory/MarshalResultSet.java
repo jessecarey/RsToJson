@@ -13,31 +13,9 @@ import java.util.List;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class JsonFactory {
-	protected java.sql.Connection conn;
-	private final String queryString;
+public class MarshalResultSet {
 	
-	
-	public JsonFactory(String queryString, java.sql.Connection conn){
-		this.queryString = queryString;
-		this.conn = conn;
-	}
-	
-	public List<LinkedHashMap<String, Object>> runFactory() throws SQLException{
-		List<LinkedHashMap<String,Object>> results;
-		ResultSet rs = null;
-		java.sql.PreparedStatement testStatement = conn.prepareStatement(queryString);
-		rs= testStatement.executeQuery();
-		results = getEntitiesFromResultSet(rs);
-		return results;
-	}
-	/**
-	 * Creates an arraylist of linked hashmaps
-	 * @param resultSet
-	 * @return
-	 * @throws SQLException
-	 */
-	private List<LinkedHashMap<String, Object>> getEntitiesFromResultSet(ResultSet resultSet) throws SQLException {
+	public static List<LinkedHashMap<String, Object>> getEntitiesFromResultSet(ResultSet resultSet) throws SQLException {
         ArrayList<LinkedHashMap<String, Object>> entities = new ArrayList<>();
         while (resultSet.next()) {
             entities.add(getEntityFromResultSet(resultSet));
@@ -50,7 +28,7 @@ public class JsonFactory {
     * @return
     * @throws SQLException
     */
-    private LinkedHashMap<String, Object> getEntityFromResultSet(ResultSet resultSet) throws SQLException {
+    private static LinkedHashMap<String, Object> getEntityFromResultSet(ResultSet resultSet) throws SQLException {
         ResultSetMetaData metaData = resultSet.getMetaData();
         int columnCount = metaData.getColumnCount();
         LinkedHashMap<String, Object> resultsMap = new LinkedHashMap<>();
