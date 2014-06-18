@@ -1,0 +1,1807 @@
+[
+  {
+    "cmcust": 9999992002,
+    "rdate": 2012349,
+    "ramount": -4200.00,
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007213,
+    "ramount": 34313.11,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "BALANCE FORWARD 1057 ITEMS"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007225,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22212-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007227,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22708-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007227,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22708-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007227,
+    "ramount": 166.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22708-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007228,
+    "ramount": 250.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22812-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23906-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23906-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23906-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23907-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23907-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23907-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23907-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007239,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/23907-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007254,
+    "ramount": -600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25405-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007256,
+    "ramount": 1500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25617-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007256,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25617-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007257,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25705-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007257,
+    "ramount": 650.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25705-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007257,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25705-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007257,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25705-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 166.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 250.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26108-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007261,
+    "ramount": -166.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26110-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 250.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28804-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28805-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28805-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007288,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28808-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007289,
+    "ramount": -300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28905-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 250.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31621-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007316,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31622-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007317,
+    "ramount": -941.23,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31704-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007317,
+    "ramount": -400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31704-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31814-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007318,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-BC/31816-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007323,
+    "ramount": -1000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/32315-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007323,
+    "ramount": -150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/32315-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007330,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/33027-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007330,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/33027-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34410-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007344,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34411-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007347,
+    "ramount": 175.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34715-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007347,
+    "ramount": 800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34715-07"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008003,
+    "ramount": -400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/00315-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 175.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008011,
+    "ramount": 436.52,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01102-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008015,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01508-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008015,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01508-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008015,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01508-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008015,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01508-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008015,
+    "ramount": 1210.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01508-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008016,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01609-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -1210.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02810-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02810-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -1000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02811-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -3000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02811-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -3000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02811-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02811-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008028,
+    "ramount": -2000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/02811-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008042,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04209-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008042,
+    "ramount": 96.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04209-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008042,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04209-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008042,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04209-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008042,
+    "ramount": -150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04214-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": 600.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07010-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07010-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07010-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07010-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07010-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008070,
+    "ramount": -3300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07013-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008074,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07410-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008074,
+    "ramount": -1000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07412-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008074,
+    "ramount": -2800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/07412-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008080,
+    "ramount": -350.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/08013-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008101,
+    "ramount": 550.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-BC/10126-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 486.69,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10512-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": -200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10515-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008105,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/10521-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008133,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13317-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008133,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13317-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008133,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13317-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008133,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13317-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008133,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13317-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008140,
+    "ramount": -1166.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/14016-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008156,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-PC/15612-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008165,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/16502-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008165,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/16502-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008165,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/16502-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008165,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/16502-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008165,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/16502-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008185,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/18510-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008190,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19002-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008190,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19002-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008190,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19002-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008190,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19002-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008190,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19002-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008224,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22411-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008224,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22411-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008224,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22411-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008224,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22411-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008224,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22411-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008252,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25218-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008252,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25218-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008252,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25218-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008252,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25218-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008252,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25218-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008263,
+    "ramount": -1000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26302-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008266,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/26614-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008284,
+    "ramount": 122.72,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28419-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008290,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/29019-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008290,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/29019-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008317,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/31705-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 60.01,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008344,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/34405-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008352,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/35210-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008352,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/35210-08"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 400.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009012,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01206-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009014,
+    "ramount": 850.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/01409-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009040,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/04018-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 150.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009065,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/06508-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009089,
+    "ramount": 190.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/08924-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009089,
+    "ramount": -800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/08928-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009089,
+    "ramount": -1200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/08928-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009096,
+    "ramount": -2040.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09618-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009096,
+    "ramount": -2000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09618-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009096,
+    "ramount": -2250.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09618-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009098,
+    "ramount": 50.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09806-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009098,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09806-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009098,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09806-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009098,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09806-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009098,
+    "ramount": 300.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/09806-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009127,
+    "ramount": -100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-DP/12718-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009134,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13420-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009134,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13420-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009134,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13420-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009135,
+    "ramount": -2100.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/13502-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009156,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/15602-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009156,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/15602-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009156,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/15602-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009194,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19403-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009194,
+    "ramount": 75.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19403-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009194,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/19403-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009222,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22208-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009222,
+    "ramount": 200.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/22208-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009244,
+    "ramount": -2000.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/24414-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009251,
+    "ramount": 500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/25105-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009282,
+    "ramount": -2500.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-TM/28211-09"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2010165,
+    "ramount": 1800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-AH/16511-10"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2010202,
+    "ramount": -1800.00,
+    "descript": "Cash awaiting deposit activity",
+    "remark": "CN-AH/20202-10"
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2007331,
+    "ramount": -400.00,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008014,
+    "ramount": -300.00,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008016,
+    "ramount": -436.52,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008107,
+    "ramount": -486.69,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2008157,
+    "ramount": -300.00,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009013,
+    "ramount": -4000.00,
+    "descript": "Vendor Payment",
+    "remark": ""
+  },
+  {
+    "cmcust": 9999992002,
+    "rdate": 2009050,
+    "ramount": -1000.00,
+    "descript": "Vendor Payment",
+    "remark": ""
+  }
+]

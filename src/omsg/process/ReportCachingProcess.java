@@ -92,8 +92,8 @@ public class ReportCachingProcess {
 		String type = config.getType();
 		String name = config.getName();
 		String path = type + "\\" + name + "." + type;
-
-		PrintWriter pw = new PrintWriter(path);
+		String newpath = "C:\\Users\\bpmdev\\workspace\\osmgjs\\WebContent\\Json\\" + name + "." +type; 
+		PrintWriter pw = new PrintWriter(newpath);
 		pw.print(results);
 		pw.close();
 		pm.getDebugLogger().info(

@@ -63,6 +63,7 @@ public class ToJson {
 		} catch (JSONException e) {
 			e.printStackTrace();
 		}
+		json = json.substring(0, json.length()-1);
 		json = json + "]";
 		return json;
 	}
