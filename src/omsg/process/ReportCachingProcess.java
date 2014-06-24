@@ -64,14 +64,17 @@ public class ReportCachingProcess {
 			List<LinkedHashMap<String, Object>> results = MarshalResultSet
 					.getEntitiesFromResultSet(rs);
 			json = ToJson.objectToGson(results);
+			System.out.println(json);
+			pm.getDebugLogger().info(
+					"Entities converted for " + dataSetConfig.getName());
+			storeResults(json, dataSetConfig);
+
 		} catch (SQLException e) {
 			status = false;
-		}
-		try {
-			storeResults(json, dataSetConfig);
 		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
 			status = false;
-		}
+		}		
 		return status;
 	}
 	
@@ -92,7 +95,7 @@ public class ReportCachingProcess {
 		String type = config.getType();
 		String name = config.getName();
 		String path = type + "\\" + name + "." + type;
-		String newpath = "C:\\Users\\bpmdev\\workspace\\osmgjs\\WebContent\\Json\\" + name + "." +type; 
+		String newpath = "C:\\Users\\bpmdev\\workspace\\omsgjs\\WebContent\\Json\\" + name + "." +type; 
 		PrintWriter pw = new PrintWriter(newpath);
 		pw.print(results);
 		pw.close();
