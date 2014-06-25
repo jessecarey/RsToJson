@@ -799,3 +799,49 @@
 2014-06-24 14:25:50,242 INFO  - Results processed for SELECT Count(QS36F_CMASTDAT.CMCUST) AS CCount,  ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmoedt FROM (QS36F.CMAST as QS36F_CMASTDAT LEFT JOIN OSADMIN.Model_Codes as ModelCodes ON (QS36F_CMASTDAT.CMMCOD = ModelCodes.PMD030) AND (QS36F_CMASTDAT.CMMDYR = ModelCodes.PYR010)) LEFT JOIN QS36F.COUNTRY as QS36F_COUNTRY ON QS36F_CMASTDAT.CMCTRY = QS36F_COUNTRY.COCTRY WHERE ((QS36F_CMASTDAT.cmstat)<>'T') and ((QS36F_CMASTDAT.cmoedt)>20131231) GROUP BY  ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1), QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors 
 2014-06-24 14:25:51,959 INFO  - Entities converted for deliveries 
 2014-06-24 14:25:51,984 INFO  - json stored for deliveries in json\deliveries.json 
+2014-06-25 10:08:31,766 INFO  - Configuration orders loaded 
+2014-06-25 10:08:32,729 INFO  - Connection established orders com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:08:34,310 INFO  - Results processed for SELECT Count(QS36F_CMASTDAT.CMCUST) AS CCount, ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1) AS seg, QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors FROM (QS36F.CMAST as QS36F_CMASTDAT LEFT JOIN OSADMIN.Model_Codes as ModelCodes ON (QS36F_CMASTDAT.CMMCOD = ModelCodes.PMD030) AND (QS36F_CMASTDAT.CMMDYR = ModelCodes.PYR010)) LEFT JOIN QS36F.COUNTRY as QS36F_COUNTRY ON QS36F_CMASTDAT.CMCTRY = QS36F_COUNTRY.COCTRY WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (((QS36F_CMASTDAT.cmoedt) > 20131231)) GROUP BY ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1), QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors 
+2014-06-25 10:08:45,032 INFO  - Entities converted for orders 
+2014-06-25 10:08:45,060 INFO  - json stored for orders in json\orders.json 
+2014-06-25 10:12:23,077 INFO  - Configuration deliveries loaded 
+2014-06-25 10:12:26,555 INFO  - Connection established deliveries com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:12:27,934 INFO  - Results processed for SELECT Count(QS36F_CMASTDAT.CMCUST) AS CCount,  ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmoedt FROM (QS36F.CMAST as QS36F_CMASTDAT LEFT JOIN OSADMIN.Model_Codes as ModelCodes ON (QS36F_CMASTDAT.CMMCOD = ModelCodes.PMD030) AND (QS36F_CMASTDAT.CMMDYR = ModelCodes.PYR010)) LEFT JOIN QS36F.COUNTRY as QS36F_COUNTRY ON QS36F_CMASTDAT.CMCTRY = QS36F_COUNTRY.COCTRY WHERE ((QS36F_CMASTDAT.cmstat)<>'T') and ((QS36F_CMASTDAT.cmoedt)>20121231) and ((QS36F_CMASTDAT.cmoedt)<20140000) GROUP BY  ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1), QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors 
+2014-06-25 10:12:37,363 INFO  - Entities converted for deliveries 
+2014-06-25 10:12:37,381 INFO  - json stored for deliveries in json\deliveries.json 
+2014-06-25 10:21:16,962 INFO  - Configuration orders loaded 
+2014-06-25 10:21:17,858 INFO  - Connection established orders com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:21:18,586 INFO  - Results processed for SELECT Count(QS36F_CMASTDAT.CMCUST) AS CCount, ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1) AS seg, QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors FROM (QS36F.CMAST as QS36F_CMASTDAT LEFT JOIN OSADMIN.Model_Codes as ModelCodes ON (QS36F_CMASTDAT.CMMCOD = ModelCodes.PMD030) AND (QS36F_CMASTDAT.CMMDYR = ModelCodes.PYR010)) LEFT JOIN QS36F.COUNTRY as QS36F_COUNTRY ON QS36F_CMASTDAT.CMCTRY = QS36F_COUNTRY.COCTRY WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (((QS36F_CMASTDAT.cmoedt) < 20140000)) and (((QS36F_CMASTDAT.cmoedt) > 20121231)) GROUP BY ModelCodes.PMN010, ModelCodes.PBD020, QS36F_CMASTDAT.cmmlin, QS36F_CMASTDAT.cmarea, substr(QS36F_CMASTDAT.cmf100,8,1), QS36F_CMASTDAT.cmoedt, QS36F_CMASTDAT.cmpors, QS36F_COUNTRY.CODESC, QS36F_CMASTDAT.cmoors 
+2014-06-25 10:21:50,309 INFO  - Entities converted for orders 
+2014-06-25 10:21:50,577 INFO  - json stored for orders in json\orders.json 
+2014-06-25 10:30:47,101 INFO  - Configuration totalordersbymonth loaded 
+2014-06-25 10:30:47,795 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:30:48,176 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-25 10:30:48,273 INFO  - Entities converted for totalordersbymonth 
+2014-06-25 10:30:48,279 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-25 10:33:42,186 INFO  - Configuration totalordersbymonth loaded 
+2014-06-25 10:33:42,189 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-25 10:33:46,485 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:33:47,219 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:33:48,229 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-25 10:33:48,555 INFO  - Entities converted for totalordersbymonth 
+2014-06-25 10:33:48,587 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-25 10:33:48,682 INFO  - Results processed for config.totalordersbymonth.type = json 
+2014-06-25 10:34:55,093 INFO  - Configuration totalordersbymonth loaded 
+2014-06-25 10:34:55,094 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-25 10:34:55,855 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:34:55,924 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:34:56,233 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-25 10:34:56,333 INFO  - Entities converted for totalordersbymonth 
+2014-06-25 10:34:56,335 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-25 10:34:56,413 INFO  - Results processed for config.totalordersbymonth.type = json 
+2014-06-25 10:35:36,091 INFO  - Configuration totalordersbymonth loaded 
+2014-06-25 10:35:36,092 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-25 10:35:36,814 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:35:36,873 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-25 10:35:37,192 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-25 10:35:37,317 INFO  - Entities converted for totalordersbymonth 
+2014-06-25 10:35:37,323 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-25 10:35:37,492 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmdbok>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2))  
+2014-06-25 10:35:37,497 INFO  - Entities converted for totaldeliveriesbymonth 
+2014-06-25 10:35:37,507 INFO  - json stored for totaldeliveriesbymonth in json\totaldeliveriesbymonth.json 

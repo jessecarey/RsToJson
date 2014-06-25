@@ -11,10 +11,16 @@ import com.google.gson.GsonBuilder;
 
 public class ToJson {
 	public static String objectToGson(Object obj) {
-		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		Gson gson = new Gson();
 		String json = gson.toJson(obj);
 		return json;
 
+	}
+	
+	public static String obectToGsonPretty(Object obj){
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		String json = gson.toJson(obj);
+		return json;
 	}
 
 	public static String csvToJson(String csvPath) {
