@@ -845,3 +845,31 @@
 2014-06-25 10:35:37,492 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmdbok>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2))  
 2014-06-25 10:35:37,497 INFO  - Entities converted for totaldeliveriesbymonth 
 2014-06-25 10:35:37,507 INFO  - json stored for totaldeliveriesbymonth in json\totaldeliveriesbymonth.json 
+2014-06-26 09:15:13,529 INFO  - Configuration totalordersbymonth loaded 
+2014-06-26 09:15:13,531 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-26 09:15:14,071 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:15:14,163 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:15:14,605 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-26 09:15:14,699 INFO  - Entities converted for totalordersbymonth 
+2014-06-26 09:15:14,703 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-26 09:15:14,901 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2))  
+2014-06-26 09:17:43,779 INFO  - Configuration totalordersbymonth loaded 
+2014-06-26 09:17:43,780 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-26 09:17:44,237 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:17:44,337 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:17:44,667 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-26 09:17:44,739 INFO  - Entities converted for totalordersbymonth 
+2014-06-26 09:17:44,742 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-26 09:17:44,821 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2))  
+2014-06-26 09:21:54,426 INFO  - Configuration totalordersbymonth loaded 
+2014-06-26 09:21:54,427 INFO  - Configuration totaldeliveriesbymonth loaded 
+2014-06-26 09:21:54,868 INFO  - Connection established totalordersbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:21:54,908 INFO  - Connection established totaldeliveriesbymonth com.ibm.db2.jcc.DB2Driver jdbc jdbc:db2://nyprod.militarycars.com:446/NYPROD 
+2014-06-26 09:21:55,190 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmoedt>20130101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmoedt),1,4)), int(substr(char(QS36F_CMASTDAT.cmoedt),5,2))  
+2014-06-26 09:21:55,266 INFO  - Entities converted for totalordersbymonth 
+2014-06-26 09:21:55,268 INFO  - json stored for totalordersbymonth in json\totalordersbymonth.json 
+2014-06-26 09:21:55,658 INFO  - Results processed for SELECT  INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)) as syear, int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) as smonth,Count(QS36F_CMASTDAT.CMCUST) AS CCount FROM QS36F.CMAST as QS36F_CMASTDAT WHERE (((QS36F_CMASTDAT.cmstat)<>'T')) and (QS36F_CMASTDAT.cmdbok>20030101) GROUP BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2)) ORDER BY INT(substr(char(QS36F_CMASTDAT.cmdbok),1,4)), int(substr(char(QS36F_CMASTDAT.cmdbok),5,2))  
+2014-06-26 09:21:55,686 INFO  - Entities converted for totaldeliveriesbymonth 
+2014-06-26 09:21:55,695 INFO  - json stored for totaldeliveriesbymonth in json\totaldeliveriesbymonth.json 
+2014-06-27 14:43:41,292 INFO  - Configuration monitor loaded 
+2014-06-27 14:43:41,576 INFO  - Connection established monitor com.ibm.db2.jcc.DB2Driver null jdbc:db2://bpmdb4.militarycars.com:50000/MONITOR:retrieveMessagesFromServerOnGetMessage=true 
