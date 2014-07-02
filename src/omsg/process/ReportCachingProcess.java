@@ -64,7 +64,6 @@ public class ReportCachingProcess {
 			List<LinkedHashMap<String, Object>> results = MarshalResultSet
 					.getEntitiesFromResultSet(rs);
 			json = ToJson.objectToGson(results);
-			System.out.println(json);
 			pm.getDebugLogger().info(
 					"Entities converted for " + dataSetConfig.getName());
 			storeResults(json, dataSetConfig);

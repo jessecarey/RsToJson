@@ -12,6 +12,7 @@ import org.json.JSONException;
 
 public class ConnectionManager {
 	public static void main(String[] args) throws JSONException, IOException {
+		long startTime = System.nanoTime();
 		String queryString;
 		Connection conn = null;
 		PropertyManager pm = PropertyManager.getInstance();
@@ -23,6 +24,8 @@ public class ConnectionManager {
 		ReportCachingProcess rcp = new ReportCachingProcess();
 		rcp.init(conns);
 		System.out.println();
+		long endTime = System.nanoTime();
+		pm.getRuntimeLogger().info("Took "+(endTime - startTime) + " ns");
 	}
 	
 	private static ArrayList<Connection> generateConnectionList(ArrayList<DataSetConfig> configSet){

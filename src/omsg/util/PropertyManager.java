@@ -20,6 +20,7 @@ public class PropertyManager {
 	private Properties prop;
 	private static final String PROP_FILE = "config/test.properties";
 	//log
+	private  Logger runtimeLogger;
 	private  Logger debugLogger  ;
 	private  Logger errorLogger  ;
 	private  Logger consoleLogger  ;
@@ -67,9 +68,14 @@ public class PropertyManager {
 		consoleLogger = Logger.getLogger("CL");
 		exportLogger = Logger.getLogger("EXPL");
 		duplicatesLogger = Logger.getLogger("DUPL");
+		runtimeLogger = Logger.getLogger("RTX");
 		
 	}
 	
+	public Logger getRuntimeLogger() {
+		return runtimeLogger;
+	}
+
 	public Logger getDebugLogger(){
 		return debugLogger;
 	}
